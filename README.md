@@ -31,11 +31,11 @@ a good model
 Model - Metrics
 ------------------------------------------
 * Models : 
-	* `Multiple linear-regression` : using R-squared, R(adj)-squared and R-predict squared to evaluate our model to find a tradeoff between `precision-bias` respecting `OLS assumption`
+	* `Multiple linear-regression` : using R-squared, R(adj)-squared and R-predict squared to evaluate our model with respect to `OLS Assumption`
 
-	* `Xgboost Regressor` from xgboost : This model is more robust to overfitting and reach better accuracy (`Cf. HousePrices_EDA notebook`) => We opted for this model
+	* `Xgboost Regressor` from Xgboost : This model is more robust to overfitting and reach better accuracy (`Cf. HousePrices_EDA notebook`) => We opted for this model
 
-	* `GradientBoostRegressor` from sklearn : Robust to overfitting but Xgboost give better results.
+	* `GradientBoostRegressor` from Sklearn : Robust to overfitting but Xgboost give better results.
 
 	* `RandomForestRegressor` 
 
