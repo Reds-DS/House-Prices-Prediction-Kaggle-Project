@@ -47,7 +47,7 @@ Model - Metrics
 Rank / Score
 ----------------------------------------
 
-* Rank : `1,336/5068 - TOP 30%`
+* Rank : `1,337/5090 - TOP 27%`
 * Score : `0.12810` with `rmse` as an evaluation metric
 
 
